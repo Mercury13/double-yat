@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="480"
+   height="480"
+   viewBox="0 0 480 480"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Пц.svg"
+   inkscape:export-filename="Пц.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.95740003"
+     inkscape:cx="38.646333"
+     inkscape:cy="259.55713"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="240,480"
+       orientation="-1,0"
+       id="guide3"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.4"
+       id="rect1"
+       width="480"
+       height="480"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.4"
+       id="rect2"
+       width="420"
+       height="370"
+       x="30"
+       y="30"
+       inkscape:export-filename="rect2.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:38px;line-height:1.25;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e01b24;stroke:#e01b24;stroke-width:0.5;stroke-dasharray:none"
+       x="239.80801"
+       y="365"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="239.80801"
+         y="365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#e01b24;stroke:none;stroke-width:0.5;stroke-dasharray:none">Абхазская буква П<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:38px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Medium';baseline-shift:super"
+   id="tspan4">х</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:1.25;font-family:'Old Standard TT';-inkscape-font-specification:'Old Standard TT';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.6;stroke-dasharray:none"
+       x="240.00006"
+       y="449.69995"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="240.00006"
+         y="449.69995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';fill:#ffffff;stroke:none;font-size:36px">А вы о чём подумали?</tspan></text>
+    <path
+       style="font-size:294.019px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+       d="m 331.03921,321.67353 c 0,-21.36538 -3.92025,-37.04639 -11.76076,-47.04304 -7.6445,-9.80064 -18.71922,-14.70096 -33.22415,-14.70096 H 250 v -12.34879 h 3.82224 c 6.66443,0 12.3488,-1.17608 17.05311,-3.52823 4.7043,-2.54817 7.05645,-8.42855 7.05645,-17.64114 V 64.700911 H 191.19619 V 226.41137 c 0,9.21259 2.35215,15.09297 7.05646,17.64114 4.70431,2.35215 10.38867,3.52823 17.0531,3.52823 h 3.82225 v 12.34879 h -85.55953 v -12.34879 h 3.82224 c 6.66443,0 12.3488,-1.17608 17.05311,-3.52823 4.7043,-2.54817 7.05645,-8.42855 7.05645,-17.64114 V 82.342051 c 0,-8.624557 -2.45016,-14.112912 -7.35047,-16.465064 -4.7043,-2.352152 -10.29067,-3.528228 -16.75909,-3.528228 h -3.82224 V 49.99996 h 201.99106 v 12.348799 h -3.82225 c -6.66443,0 -12.34879,1.274082 -17.0531,3.822247 -4.70431,2.352152 -7.05646,8.134526 -7.05646,17.347121 V 226.41137 c 0,6.07639 1.07807,10.68269 3.23421,13.81889 2.35215,2.94019 5.29234,4.90032 8.82057,5.88038 3.72424,0.98007 7.7425,1.4701 12.05478,1.4701 h 12.82679 v 74.09279 z"
+       id="text2"
+       inkscape:transform-center-x="-1.0287826"
+       inkscape:transform-center-y="-74.092763"
+       aria-label="Ԥ"
+       sodipodi:nodetypes="ccsccscsccscsccccscsscsccccscssccsccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1.25;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#5e5c64"
+       x="441.022"
+       y="390"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="441.022"
+         y="390">Юникод 0524, 0525</tspan></text>
+  </g>
+</svg>
